@@ -1,0 +1,56 @@
+body{
+    background:silver;
+}
+#cabecera{
+    background: #292ab8;
+    color:white;
+    padding: 15px;
+    height: 90px;
+}
+#pie{
+    background-color: black;
+    color:white;
+    padding: 15px;
+}
+#contenido{
+    background-color: #ccefff;
+    color:blue;
+    padding:5px;    
+    height: auto;
+}
+.Titulo{
+    font-size: 24px;
+    font-family: arial;
+    color: white;
+    padding: 0px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.Subtitulo{
+    font-size: 14px;
+    font-family: arial;
+    color: cyan;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 25px;
+}
+.menu{
+    color:yellow;
+    background-color: black;
+    display: compact;
+    text-decoration: none;
+    padding: 8px;    
+    font-family: arial;
+    font-size: 12px;
+}
+.menu:hover{
+    color:white;
+    background-color: grey;
+    display: compact;
+    text-decoration: underline;
+    padding: 8px;    
+    font-family: arial;
+    font-size: 12px;
+}
+
+
